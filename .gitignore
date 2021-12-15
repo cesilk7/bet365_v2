@@ -122,3 +122,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm
+.idea
+
+# db
+postgres
+
+# driver
+geckodriver-v0.30.0-win64
